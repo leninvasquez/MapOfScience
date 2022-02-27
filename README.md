@@ -1,4 +1,3 @@
-# MapOfScience
 
 # Universidad Regional Amazónica IKIAM 
 # Bioinformática

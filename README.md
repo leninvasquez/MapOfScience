@@ -2,14 +2,11 @@
 
 # Universidad Regional Amazónica IKIAM 
 # Bioinformática
-# Tarea Mapa de Ciencia
+# Tarea IntroR
 
-## Basado en las sesiones de Visualización de datos y Expresiones resulares. Realice una adaptación de  la solución del MAP OF SCIENCE. Se requiere dos adaptaciones para resolver esta actividad:
+## Realice la tarea de creación de datos basado basado en la clase de Introduccion a R, revise la carpeta del 2021II_4.1 INTRODUCCIÓN A R. En la actividad se requiere:
 
-### - Buscar bibliografía de un tema de interés propio en la Página Web de PubMed
-### - Realizar el minado de autores por país (en el ejemplo se encuentra realziado por las ciudades de USA). Para asignar las ubicación geográfica de los centroides de cada país (latitud y longitud), utilice la tabla  Ubicación Geográfica de Países - Google Developer. Así como en la solución de referencia se señalan varias ciudades seleccionadas de USA, en su resolución señale/resalte a los siguientes países: USA, UK, Brazil, China, Australia, Norway
-
-## Cargue su cuaderno de Jupyter en GitHub, asegurandose de lo siguiente:
-### - En el documento se puede ver con claridad el Mapa de Ciencia de su tema de interés
-### - La figura tiene etiquetas adecuadas en los ejes de la visualización
-### - Se tiene al menos tres controles de la versión (3 commit con mensajes adecuados sobre la versión)
+### - Generar un archivo HTML (self-contained: true) a partir de un documentoR markdown.
+### - Guardar ambos archivos (Html y Rmd) en un repositorio de GitHub con el nombre "IntroduccionR". 
+### - Utilizar el control de la versión (al menos 3 commits)
+### - Copiar y pegar el enlace de su repositorio en esta actividad.
